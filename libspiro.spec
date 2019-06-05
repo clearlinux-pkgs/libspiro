@@ -4,7 +4,7 @@
 #
 Name     : libspiro
 Version  : 0.5.20150702
-Release  : 1
+Release  : 2
 URL      : https://github.com/fontforge/libspiro/archive/0.5.20150702.tar.gz
 Source0  : https://github.com/fontforge/libspiro/archive/0.5.20150702.tar.gz
 Summary  : A library for curve design. Clothoid to bezier conversion. A mechanism for drawing smooth contours with constant curvature at the spline joins.

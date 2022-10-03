@@ -1,5 +1,5 @@
 PKG_NAME := libspiro
-URL = https://github.com/fontforge/libspiro/archive/20200505/libspiro-20200505.tar.gz
+URL = https://github.com/fontforge/libspiro/archive/20220722/libspiro-20220722.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
